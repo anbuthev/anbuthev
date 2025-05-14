@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub!
 
-I’m Anbarasan and I currently pursuing my Master of Computer Applications (MCA) and actively working to build a strong foundation in IT and cloud technologies. My interests lie in networking, cloud computing, and infrastructure management, and I aim to leverage these skills to create efficient and scalable solutions.
+I’m Anbarasan and I Recently completed my Master of Computer Applications (MCA) and actively working to build a strong foundation in IT and cloud technologies. My interests lie in networking, cloud computing, and infrastructure management, and I aim to leverage these skills to create efficient and scalable solutions.
 
 🔧 Skills & Knowledge Here’s a snapshot of what I’ve explored so far:
 
